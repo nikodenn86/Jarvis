@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Большая модель Vosk
+models/vosk_big/
